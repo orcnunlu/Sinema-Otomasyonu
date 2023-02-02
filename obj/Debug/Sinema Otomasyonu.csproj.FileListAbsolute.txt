@@ -1,0 +1,122 @@
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form1.resources
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe.licenses
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CopyComplete
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Orçun\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Bilet_Sat.resources
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojAssemblyReference.cache
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Bilet_Sat.resources
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form1.resources
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe.licenses
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CopyComplete
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+D:\Kodlama\projeler\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
